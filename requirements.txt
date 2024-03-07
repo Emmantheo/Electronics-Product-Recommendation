@@ -11,3 +11,4 @@ scipy
 surprise
 seaborn
 matplotlib
+ipykernel==6.28.0
