@@ -6,3 +6,5 @@ Also, there is a need to push products that might interest them to them instead 
 are not interested in. This is why a recommender system is important for your business. This is 
 going to help in increasing revenue for such business since customers would be able to interact 
 more freely with products of their desire.
+
+![Long_tail_problem](https://github.com/Emmantheo/Electronics-Product-Recommendation/assets/89465917/9821613b-398f-40bc-8a33-d8ccd7f5a565)
